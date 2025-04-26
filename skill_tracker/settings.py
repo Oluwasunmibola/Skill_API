@@ -79,8 +79,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'skill_tracker',
-        'USER': 'postgres',
-        'PASSWORD': 'postgres',
+        'USER': '',
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': '5432'
         # 'ENGINE': 'django.db.backends.sqlite3',
